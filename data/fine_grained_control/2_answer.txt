@@ -1,0 +1,5 @@
+<strong>Emotion:</strong> 惊讶中夹杂着亲昵。 </br> </br>
+<strong>Pitch:</strong> 整体偏高，表达惊讶时明显上扬。 </br> </br>
+<strong>Pitch Variation:</strong> 中度起伏，通过升降调实现强调效果。 </br> </br>
+<strong>Loudness:</strong> 常规对话水平，惊讶时有所增强。 </br> </br>
+<strong>Speed:</strong> 快慢交替，惊讶时加快，强调时放缓。
